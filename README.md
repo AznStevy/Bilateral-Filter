@@ -1,2 +1,2 @@
 # Bilateral-Filter
-Tomasi is cool.
+This filter was originally invented by Manduchi and Tomasi. Here is a brute-force MATLAB implementation that I had to do for BME544. There's a bunch of loops, very inefficent. Future steps might include different channels, implicit window determination, and not using a billion nested loops.
